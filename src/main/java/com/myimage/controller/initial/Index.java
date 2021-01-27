@@ -14,6 +14,6 @@ public class Index {
 	}
 
 	public String getMessage() {
-		return "Hello world JSF";
+		return "Hello world JSF, testando integração com Spring Security";
 	}
 }
